@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="3.10 WSL (Ubuntu-22.04): (/home/spike/.virtualenvs/learnLLM/bin/python)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="3.10 WSL (Ubuntu-22.04): (/home/spike/project/learnLLM/.venv/bin/python3.10)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="3.10 WSL (Ubuntu-22.04): (/home/spike/project/learnLLM/.venv/bin/python)" project-jdk-type="Python SDK" />
 </project>
