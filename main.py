@@ -1,5 +1,3 @@
-import print
-
 
 def main():
     print("Hello from learnllm!")
